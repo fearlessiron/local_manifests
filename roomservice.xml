@@ -6,4 +6,14 @@
   <project name="fearlessiron/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="lineage-16.0" />
   <project name="fearlessiron/android_kernel_motorola_msm8953" path="kernel/motorola/msm8953" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
+
+  <project name="microg/android_packages_apps_GmsCore" path="packages/apps/GmsCore" remote="github" revision="master" />
+  <project name="microg/android_packages_apps_UnifiedNlp" path="packages/apps/GmsCore/extern/UnifiedNlp" remote="github" revision="master" />
+  <project name="microg/android_external_UnifiedNlpApi" path="packages/apps/GmsCore/extern/UnifiedNlp/extern/UnifiedNlpApi" remote="github" revision="master" />
+  <project name="microg/android_external_MicroGUiTools" path="packages/apps/GmsCore/extern/UnifiedNlp/extern/MicroGUiTools" remote="github" revision="master" />
+  <project name="microg/android_external_GmsApi" path="packages/apps/GmsCore/extern/GmsApi" remote="github" revision="master" />
+  <project name="microg/android_external_Wearable" path="packages/apps/GmsCore/extern/Wearable" remote="github" revision="master" />
+  <project name="microg/android_external_GmsLib" path="packages/apps/GmsCore/extern/GmsLib" remote="github" revision="master" />
+  <project name="microg/android_external_GmsLib" path="packages/apps/GmsCore/extern/GmsLib/extern/GmsApi" remote="github" revision="master" />
+  <project name="microg/android_packages_apps_RemoteDroidGuard" path="packages/apps/GmsCore/extern/RemoteDroidGuard" remote="github" revision="master" />
 </manifest>
