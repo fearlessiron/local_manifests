@@ -6,4 +6,6 @@
   <project name="fearlessiron/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="staging/lineage-17.1" />
   <project name="fearlessiron/android_kernel_motorola_sdm632" path="kernel/motorola/sdm632" remote="github" revision="staging/lineage-17.1" />
   <project name="LineageOS/android_external_bson" path="external/bson" remote="github" />
+  
+  <project name="lineageos4microg/android_prebuilts_prebuiltapks" path="prebuilts/microg" remote="github" revision="master" />
 </manifest>
