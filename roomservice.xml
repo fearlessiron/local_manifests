@@ -7,6 +7,6 @@
 
 <!-- Moto G5 Cedric Projects -->
   <project name="Sohamlad7/android_device_motorola_cedric" path="device/motorola/cedric" remote="github" revision="lineage-15.1-64" />
-  <project name="Sohamlad7/android_kernel_motorola_msm8937" path="kernel/motorola/msm8937" remote="github" revision="lineage-15.1-64" />
+  <project name="fearlessiron/android_kernel_motorola_msm8937" path="kernel/motorola/msm8937" remote="github" revision="staging/lineage-15.1-64" />
   <project name="Sohamlad7/android_vendor_motorola_cedric" path="vendor/motorola/cedric" remote="github" revision="lineage-15.1-64" />
 </manifest>
