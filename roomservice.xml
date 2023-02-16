@@ -6,4 +6,5 @@
   <project name="LineageOS/android_external_bson" path="external/bson" remote="github" revision="lineage-20" />
   <project name="LineageOS/android_hardware_motorola" path="hardware/motorola" remote="github" revision="lineage-20" />
   <project name="LineageOS/android_system_qcom" path="system/qcom" remote="github" revision="lineage-20" />
+  <project name="fearlessiron/android_vendor_partner_gms" path="vendor/partner_gms" remote="github" revision="master" />
 </manifest>
