@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="LineageOS/android_device_motorola_river" path="device/motorola/river" remote="github" revision="lineage-20" />
-  <project name="LineageOS/android_device_motorola_sdm632-common" path="device/motorola/sdm632-common" remote="github" revision="lineage-20" />
+  <project name="fearlessiron/android_device_motorola_river" path="device/motorola/river" remote="github" revision="lineage-20.0" />
+  <project name="fearlessiron/android_device_motorola_sdm632-common" path="device/motorola/sdm632-common" remote="github" revision="lineage-20.0" />
   <project name="LineageOS/android_kernel_motorola_sdm632" path="kernel/motorola/sdm632" remote="github" revision="lineage-20" />
   <project name="LineageOS/android_external_bson" path="external/bson" remote="github" revision="lineage-20" />
   <project name="LineageOS/android_hardware_motorola" path="hardware/motorola" remote="github" revision="lineage-20" />
