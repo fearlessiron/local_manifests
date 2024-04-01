@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="fearlessiron/android_device_motorola_river" path="device/motorola/river" remote="github" revision="lineage-21.0-microg" />
-  <project name="fearlessiron/android_device_motorola_sdm632-common" path="device/motorola/sdm632-common" remote="github" revision="lineage-21.0" />
-  <project name="LineageOS/android_kernel_motorola_sdm632" path="kernel/motorola/sdm632" remote="github" revision="lineage-21" />
+  <project name="fearlessiron/android_device_motorola_dubai" path="device/motorola/dubai" remote="github" revision="lineage-21-microg" />
+  <project name="fearlessiron/android_device_motorola_sm7325-common" path="device/motorola/sm7325-common" remote="github" revision="lineage-21" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" remote="github" revision="lineage-21" />
+  <project name="TheMuppets/proprietary_vendor_motorola_dubai" path="vendor/motorola/dubai" remote="github" revision="lineage-21" />
+  <project name="LineageOS/android_kernel_motorola_sm7325" path="kernel/motorola/sm7325" remote="github" revision="lineage-21" />
   <project name="LineageOS/android_external_bson" path="external/bson" remote="github" revision="lineage-21" />
   <project name="LineageOS/android_hardware_motorola" path="hardware/motorola" remote="github" revision="lineage-21" />
   <project name="LineageOS/android_system_qcom" path="system/qcom" remote="github" revision="lineage-21" />
